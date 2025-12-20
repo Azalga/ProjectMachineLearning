@@ -1,3 +1,3 @@
 # ProjectMachineLearning
 Logan Barré = Azalga
-THe final python file is the Ml_PROJECT
+THe final python file is the Project_Ml_Fused
